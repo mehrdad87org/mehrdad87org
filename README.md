@@ -71,9 +71,3 @@
     <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" alt="LinkedIn" width="50" height="50" style="border: 2px solid #00a0dc; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px #00a0dc, 0 0 20px #00a0dc;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00a0dc, 0 0 40px #00a0dc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00a0dc, 0 0 20px #00a0dc';">
   </a>
 </p>
-
-<div align="center">
-  <img alt="..." width="400" src="<div align="center">
-  <img alt="..." width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxdzJiMjN0cm1xNzhmbTRwNmFlanV4MTBsYXZrZWYxcmhmYjRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
-</div>" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
-</div>
