@@ -1,5 +1,3 @@
-<h3 align="center" style="color: #00ffcc; text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 40px #00ffcc;">A passionate frontend developer from IRAN</h3>
-
 <div align="center">
   <img alt="..." width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxdzJiMjN0cm1xNzhmbTRwNmFlanV4MTBsYXZrZWYxcmhmYjRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
 </div>
