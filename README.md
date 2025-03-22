@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrdad87org" alt="mehrdad87org" style="border: 2px solid #ff00ff; border-radius: 10px; box-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;" /></a> </p>
 
-<img align="right" alt="..." width="200" src="https://media2.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.webp?cid=790b7611p0gv3ecxbm5g3s06yud1idy22g8d2t1yvutuae4w&ep=v1_gifs_search&rid=giphy.webp&ct=g" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
+<img align="right" alt="..." width="200" src="[https://media2.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.webp?cid=790b7611p0gv3ecxbm5g3s06yud1idy22g8d2t1yvutuae4w&ep=v1_gifs_search&rid=giphy.webp&ct=g](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxdzJiMjN0cm1xNzhmbTRwNmFlanV4MTBsYXZrZWYxcmhmYjRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif)" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" style="border: 2px solid #1da1f2; border-radius: 10px; box-shadow: 0 0 10px #1da1f2, 0 0 20px #1da1f2;" /></a> </p>
 
