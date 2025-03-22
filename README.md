@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="..." width="400" src="https://media.giphy.com/media/NEW_GIF_ID/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
+  <img alt="..." width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3kyY2hpejU3YjA1NjVwdGg5dnIydHRvY2U4NDk2dHRsNjI1cHp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdad87org&label=Profile%20views&color=0e75b6&style=flat" alt="mehrdad87org" /> </p>
