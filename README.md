@@ -23,6 +23,29 @@
   </a>
 </p>
 
+<!-- New Icons Row -->
+<h3 align="left" style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 40px #ff00ff;">Operating Systems:</h3>
+<p align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" alt="Linux" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" alt="Arch" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=22989&format=png&color=000000" alt="Microsoft" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000" alt="Red Hat" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';">
+  </a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrdad87org&show_icons=true&locale=en&layout=compact" alt="mehrdad87org" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrdad87org&show_icons=true&locale=en" alt="mehrdad87org" style="border: 2px solid #ff00ff; border-radius: 10px; box-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;" /></p>
