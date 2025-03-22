@@ -1,10 +1,11 @@
 <h3 align="center" style="color: #00ffcc; text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 40px #00ffcc;">A passionate frontend developer from India</h3>
 
+<img align="right" alt="..." width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxdzJiMjN0cm1xNzhmbTRwNmFlanV4MTBsYXZrZWYxcmhmYjRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdad87org&label=Profile%20views&color=0e75b6&style=flat" alt="mehrdad87org" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrdad87org" alt="mehrdad87org" style="border: 2px solid #ff00ff; border-radius: 10px; box-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;" /></a> </p>
 
-<img align="right" alt="..." width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxdzJiMjN0cm1xNzhmbTRwNmFlanV4MTBsYXZrZWYxcmhmYjRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" style="border: 2px solid #1da1f2; border-radius: 10px; box-shadow: 0 0 10px #1da1f2, 0 0 20px #1da1f2;" /></a> </p>
 
