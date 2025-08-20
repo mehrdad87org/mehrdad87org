@@ -7,14 +7,26 @@
 <h3 align="left" style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 40px #ff00ff;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python" width="40" height="40" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python" width="60" height="60" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
+  </a>
+ <a href="https://www.sqlite.org/"  target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/6ba82d645da10e17a701db0997df23158e7b860b95bdc1444572b4ef92ccba85/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"  alt="sqlite" width="60" height="60" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
+  </a>
+ <a href="https://git-scm.com/"  target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"  alt="git" width="60" height="60" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
+  </a>
+ <a href="https://www.mysql.com/"  target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql" width="60" height="60" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
+  </a>
+ <a href="https://www.selenium.dev/"  target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  alt="selenium" width="60" height="60" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #00ffcc, 0 0 40px #00ffcc';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #00ffcc, 0 0 20px #00ffcc';">
   </a>
 </p>
 <!-- New Icons Row -->
 <h3 align="left" style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 40px #ff00ff;">Operating Systems:</h3>
 <p align="left">
   <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=22989&format=png&color=000000" alt="Microsoft" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';"> 
+    <img src="https://img.icons8.com/?size=100&id=vCgw6BkbTuo1&format=png&color=000000" alt="Microsoft" width="60" height="60" style="border: 2px solid #ffffff; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ffffff, 0 0 40px #ffffff'; this.style.filter='brightness(1.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ffffff, 0 0 20px #ffffff'; this.style.filter='brightness(1)';"> 
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrdad87org&show_icons=true&locale=en&layout=compact" alt="mehrdad87org" style="border: 2px solid #00ffcc; border-radius: 10px; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;" /></p> 
