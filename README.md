@@ -46,7 +46,7 @@
   <a href="mailto:mehrdad87ourangg@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="Email" width="50" height="50" style="border: 2px solid #ff4444; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px #ff4444, 0 0 20px #ff4444;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #ff4444, 0 0 40px #ff4444';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #ff4444, 0 0 20px #ff4444';"> 
   </a>
-  <a href="https://instagram.com/mehrdad_ourang87"  target="_blank">
+  <a href="https://instagram.com/mehrdad.ourang"  target="_blank">
     <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram" width="50" height="50" style="border: 2px solid #e1306c; border-radius: 10px; padding: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px #e1306c, 0 0 20px #e1306c;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 20px #e1306c, 0 0 40px #e1306c';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px #e1306c, 0 0 20px #e1306c';"> 
   </a>
   <a href="https://www.linkedin.com/in/mehrdad-ourang-4204b734a"  target="_blank">
