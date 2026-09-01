@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Full+Stack+Developer+%7C+Python+Specialist;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Full+Stack+Developer+%7C+Python+Specialist;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 </a>
 
 ---
@@ -322,7 +322,7 @@ Building production-grade applications spanning **desktop**, **web**, and **AI-p
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehrdad87org&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="mehrdad87org" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mehrdad87org&no-frame=true&no-bg=true&column=7&margin-w=10" alt="mehrdad87org" />
 </a>
 
 </div>
@@ -333,7 +333,7 @@ Building production-grade applications spanning **desktop**, **web**, and **AI-p
 
 <div align="center">
 
-![mehrdad87org's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrdad87org&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true)
+![mehrdad87org's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrdad87org&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -343,9 +343,11 @@ Building production-grade applications spanning **desktop**, **web**, and **AI-p
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mehrdad87org/mehrdad87org/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mehrdad87org/mehrdad87org/output/github-snake-dark.svg)
 
 </div>
+
+> *If the snake doesn't appear, set up the [platane/snk](https://github.com/platane/snk) GitHub Action to auto-generate it.*
 
 ---
 
@@ -412,6 +414,6 @@ open_to:
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=mehrdad87org&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Made+with+%E2%9D%A4+and+Python&descSize=12&descAlignY=55" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=mehrdad87org&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%20%20Made%20with%20%E2%9D%A4%20and%20Python&descSize=12&descAlignY=55" alt="Footer" />
 
 </div>
