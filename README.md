@@ -414,6 +414,6 @@ open_to:
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=mehrdad87org&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%20%20Made%20with%20%E2%9D%A4%20and%20Python&descSize=12&descAlignY=55" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%20%20Made%20with%20%E2%9D%A4%20and%20Python&descSize=12&descAlignY=55" alt="Footer" />
 
 </div>
